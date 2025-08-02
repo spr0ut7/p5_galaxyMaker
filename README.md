@@ -1,4 +1,4 @@
-# Cosmic Spiral Generator
+# GalaxyMaker
 
 This project creates a mesmerizing, universe-like visual effect using p5.js. It generates a dynamic spiral pattern with noisy variables and warped transformations, evolving over time into intricate cosmic visuals.
 
